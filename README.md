@@ -28,7 +28,7 @@ Marine biodiversity collections are critical resources for understanding biodive
 ## Description
 This repository includes the following:
 
-*  UCE alignments of 25%, 35%, 45%, 55%, 65%, 75% and 85% coverage sets). ("UCE-alignments.zip")
+*  UCE alignments of 25%, 35%, 45%, 55%, 65%, 75% and 85% coverage sets. ("UCE-alignments.zip")
 
 ## Additional information
 For the following information we recommend to consult the following github page: https://github.com/PalMuc/HaploTC
