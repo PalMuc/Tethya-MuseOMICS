@@ -30,7 +30,7 @@ This repository includes the following:
 
 *  UCE alignments of 25%, 35%, 45%, 55%, 65%, 75% and 85% coverage sets. ("UCE-alignments.zip")
 *  full mtDNA protein alignment (mt_Protein_alignment.nex)
-*  28S rRNA alignment ("28SrRNA_alignment.nex")
+*  28S rRNA alignment and RAxML tree ("28SrRNA_alignment.nex")
 *  custom Perl-scripts  
 
 ## Additional information
